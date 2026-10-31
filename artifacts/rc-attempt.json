@@ -1,0 +1,20 @@
+{
+  "requests": [
+    {
+      "method": "GET",
+      "url": "https://www.gstatic.com/recaptcha/releases/bSuJ2xBC8cHT21-c68JXN31m/styles__ltr.css",
+      "postData": ""
+    },
+    {
+      "method": "GET",
+      "url": "https://www.gstatic.com/recaptcha/releases/bSuJ2xBC8cHT21-c68JXN31m/recaptcha__en.js",
+      "postData": ""
+    },
+    {
+      "method": "GET",
+      "url": "https://www.gstatic.com/recaptcha/api2/logo_48.png",
+      "postData": ""
+    }
+  ],
+  "resp": []
+}

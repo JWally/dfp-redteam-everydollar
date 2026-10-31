@@ -1,0 +1,40 @@
+{
+  "requests": [
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://www.google.com/recaptcha/api.js?render=explicit"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://www.gstatic.com/recaptcha/releases/NhfdZHzre16wrc2m6BxEdu7J/recaptcha__en.js"
+    },
+    {
+      "method": "GET",
+      "type": "document",
+      "url": "https://www.google.com/recaptcha/api2/anchor?ar=1&k=6LdxSscbAAAAAFBBnuQrtgdKy7vw8FTT8YJZQzZh&co=aHR0cDovLzEyNy4wLjAuMTo0NDUzNw..&hl=en&v=NhfdZHzre16wrc2m6BxEdu7J&size=normal&anchor-ms=20000&execute-ms"
+    },
+    {
+      "method": "GET",
+      "type": "stylesheet",
+      "url": "https://www.gstatic.com/recaptcha/releases/NhfdZHzre16wrc2m6BxEdu7J/styles__ltr.css"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://www.gstatic.com/recaptcha/releases/NhfdZHzre16wrc2m6BxEdu7J/recaptcha__en.js"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "https://www.gstatic.com/recaptcha/api2/logo_48.png"
+    },
+    {
+      "method": "GET",
+      "type": "font",
+      "url": "https://fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBA.woff2"
+    }
+  ],
+  "resp": []
+}
