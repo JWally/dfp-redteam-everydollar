@@ -1,0 +1,113 @@
+{
+  "st": {
+    "url": "https://id.ramseysolutions.com/u/login/identifier?state=hKFo2SBtaW9XbGxqSGtaMGU2S2RVQ3dyWmp1U1VuTmNPbXNFSKFur3",
+    "title": "Ramsey Account - Sign In",
+    "recaptcha": true,
+    "hasRecaptchaBox": false,
+    "iframes": [
+      "https://www.recaptcha.net/recaptcha/api2/anchor?ar=1&k=6LdxSscbAAAAAFB",
+      "https://www.recaptcha.net/recaptcha/api2/bframe?hl=en&v=bSuJ2xBC8cHT21"
+    ]
+  },
+  "rc": [
+    "https://www.recaptcha.net/recaptcha/api.js?render=explicit&hl=en&onload=captchaCallback_845316",
+    "https://www.gstatic.com/recaptcha/releases/bSuJ2xBC8cHT21-c68JXN31m/recaptcha__en.js",
+    "https://www.recaptcha.net/recaptcha/api2/anchor?ar=1&k=6LdxSscbAAAAAFBBnuQrtgdKy7vw8FTT8YJZQzZh&co=aHR0cHM6Ly9pZC5yYW1zZXlzb2x1dGlvbnMuY29tOjQ0Mw..&hl",
+    "https://www.gstatic.com/recaptcha/releases/bSuJ2xBC8cHT21-c68JXN31m/styles__ltr.css",
+    "https://www.gstatic.com/recaptcha/releases/bSuJ2xBC8cHT21-c68JXN31m/recaptcha__en.js",
+    "https://www.recaptcha.net/recaptcha/api2/webworker.js?hl=en&v=bSuJ2xBC8cHT21-c68JXN31m",
+    "https://www.gstatic.com/recaptcha/api2/logo_48.png",
+    "https://fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiA8.ttf",
+    "https://www.gstatic.com/recaptcha/releases/bSuJ2xBC8cHT21-c68JXN31m/recaptcha__en.js",
+    "https://www.recaptcha.net/recaptcha/api2/bframe?hl=en&v=bSuJ2xBC8cHT21-c68JXN31m&k=6LdxSscbAAAAAFBBnuQrtgdKy7vw8FTT8YJZQzZh&bft=0dAFcWeA7CiomqvX-f7Aaj",
+    "https://www.gstatic.com/recaptcha/releases/bSuJ2xBC8cHT21-c68JXN31m/styles__ltr.css",
+    "https://www.gstatic.com/recaptcha/releases/bSuJ2xBC8cHT21-c68JXN31m/recaptcha__en.js",
+    "https://fonts.gstatic.com/s/roboto/v48/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiA8.ttf"
+  ],
+  "auth0": [
+    [
+      "GET",
+      "https://www.everydollar.com/app/oauth2/authorization/auth0"
+    ],
+    [
+      "GET",
+      "https://id.ramseysolutions.com/authorize?response_type=code&client_id=kidx6B6kIervhsCKFlP0foAb4mIQ28Es&scope=email%20offline_access%20openid%20profile"
+    ],
+    [
+      "GET",
+      "https://id.ramseysolutions.com/u/login/identifier?state=hKFo2SBtaW9XbGxqSGtaMGU2S2RVQ3dyWmp1U1VuTmNPbXNFSKFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIFVqa1BXdk1jcF"
+    ],
+    [
+      "GET",
+      "https://cdn.ramseysolutions.net/id.ramseysolutions.com/assets/3cd5d1d8/universal/index.js"
+    ],
+    [
+      "GET",
+      "https://cdn.ramseysolutions.net/id.ramseysolutions.com/assets/3cd5d1d8/universal/index.css"
+    ],
+    [
+      "GET",
+      "https://cdn.auth0.com/ulp/react-components/1.224.0/css/main_wcag_compliant.cdn.min.css"
+    ],
+    [
+      "GET",
+      "https://cdn.auth0.com/ulp/react-components/1.224.0/js/libphonenumber-js-bundle.js"
+    ],
+    [
+      "GET",
+      "https://cdn.ramseysolutions.net/id.ramseysolutions.com/assets/3cd5d1d8/universal/img/ramsey-logo-blue.svg"
+    ],
+    [
+      "GET",
+      "https://cdn.ramseysolutions.net/media/auth0/product-logos/everydollar-logo-sm.svg"
+    ],
+    [
+      "GET",
+      "https://cdn.ramseysolutions.net/id.ramseysolutions.com/assets/3cd5d1d8/universal/index-rolldown-runtime.js"
+    ],
+    [
+      "GET",
+      "https://cdn.ramseysolutions.net/id.ramseysolutions.com/assets/3cd5d1d8/universal/index-vue.js"
+    ],
+    [
+      "GET",
+      "https://cdn.ramseysolutions.net/id.ramseysolutions.com/assets/3cd5d1d8/universal/index-preload.js"
+    ],
+    [
+      "GET",
+      "https://cdn.ramseysolutions.net/id.ramseysolutions.com/assets/3cd5d1d8/universal/index-vendor.js"
+    ],
+    [
+      "GET",
+      "https://gtm.ramseysolutions.com/g/collect?v=2&tid=G-02SXDH1H96&gtm=45je6as1v878108407z877022591za20gzb77022591zd77022591xf1&_p=1793470148135&gcd=13l3l"
+    ],
+    [
+      "GET",
+      "https://gtm.ramseysolutions.com/_/service_worker/6al0/sw_iframe.html?origin=https%3A%2F%2Fid.ramseysolutions.com&1p=1"
+    ],
+    [
+      "GET",
+      "https://connect.facebook.net/signals/config/1495765904005701?v=2.9.433&r=stable&domain=id.ramseysolutions.com&optin_meta_enabled_capi=true&hme=4453c87"
+    ],
+    [
+      "POST",
+      "https://www.google.com/rmkt/collect/854924943/?random=1015278647&fst=1793470148963&cv=10&fmt=8&bg=ffffff&guid=ON&u_w=1280&u_h=900&gtm=45j91e6as2v87810"
+    ],
+    [
+      "GET",
+      "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/854924943/?random=1015278647&fst=1793470148963&cv=10&fmt=3&bg=ffffff&guid=ON&u_w=1280"
+    ],
+    [
+      "GET",
+      "https://www.google.com/pagead/1p-user-list/854924943/?random=1015278647&fst=1793469600000&cv=10&fmt=3&bg=ffffff&guid=ON&u_w=1280&u_h=900&gtm=45j91e6as"
+    ],
+    [
+      "GET",
+      "https://www.facebook.com/tr/?id=1495765904005701&ev=PageView&dl=https%3A%2F%2Fid.ramseysolutions.com&rl=&if=false&ts=1793470149441&iw=false&sw=1280&sh"
+    ],
+    [
+      "GET",
+      "https://bat.bing.com/action/0?ti=4015734&tm=gtm002&Ver=2&mid=8d8d4803-6b92-410b-9bf0-ae6e0292c030&bo=1&sid=2b626ed0d55611f19e48a392e374def0&vid=2b628b"
+    ]
+  ]
+}

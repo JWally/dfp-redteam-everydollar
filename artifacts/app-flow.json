@@ -1,0 +1,167 @@
+{
+  "state": {
+    "url": "https://www.everydollar.com/app/auth/login",
+    "title": "EveryDollar",
+    "recaptcha": false,
+    "sitekeys": [],
+    "iframes": [],
+    "cookies": []
+  },
+  "requests": [
+    {
+      "method": "GET",
+      "type": "document",
+      "url": "https://www.everydollar.com/app/auth/login"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://www.everydollar.com/app/assets/login-DBSU6ujg.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://www.everydollar.com/app/assets/react-Dri3Smnr.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://www.everydollar.com/app/assets/rolldown-runtime-CNOWq4Kh.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://www.everydollar.com/app/assets/configureNetworkClients-D5cT800s.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://www.everydollar.com/app/assets/EDSIcon-Yl690hIk.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://www.everydollar.com/app/assets/QueryClientProvider-XpSz0CQC.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://www.everydollar.com/app/assets/preload-helper-yvApXQsr.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://www.everydollar.com/app/assets/esm-CbCTeibG.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://www.everydollar.com/app/assets/replayStats-BsUIIwpR.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://www.everydollar.com/app/assets/utils-CRhZiycV.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://www.everydollar.com/app/assets/initTheme-7ig_FEmI.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://www.everydollar.com/app/assets/tslib.es6-tqNiXHdA.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://www.everydollar.com/app/assets/middleware-BlK8_84l.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://www.everydollar.com/app/assets/FullPageLayout-CZpjoAGk.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://www.everydollar.com/app/assets/navigationUtils-_BOGXFY2.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://www.everydollar.com/app/assets/base-C-YZqhWs.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://www.everydollar.com/app/assets/Callout-Do41_5kM.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://www.everydollar.com/app/assets/StatusIcon-CWOdjkOJ.js"
+    },
+    {
+      "method": "GET",
+      "type": "stylesheet",
+      "url": "https://www.everydollar.com/app/assets/login-BaMQukJ8.css"
+    },
+    {
+      "method": "GET",
+      "type": "stylesheet",
+      "url": "https://www.everydollar.com/app/assets/configureNetworkClients-DV6jLiO6.css"
+    },
+    {
+      "method": "GET",
+      "type": "stylesheet",
+      "url": "https://www.everydollar.com/app/assets/FullPageLayout-BBNIfc39.css"
+    },
+    {
+      "method": "GET",
+      "type": "stylesheet",
+      "url": "https://www.everydollar.com/app/assets/base-BcHNUFvt.css"
+    },
+    {
+      "method": "GET",
+      "type": "stylesheet",
+      "url": "https://www.everydollar.com/app/assets/Callout-B8k-FPYO.css"
+    },
+    {
+      "method": "GET",
+      "type": "stylesheet",
+      "url": "https://www.everydollar.com/app/assets/StatusIcon-DpiwkJNv.css"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "https://p.typekit.net/p.gif?s=1&k=txz6taw&ht=tk&h=www.everydollar.com&f=24349.24354.24355.43311&a=12370528&js=1.21.0&app=typekit&e=js&_=1793470032744"
+    },
+    {
+      "method": "GET",
+      "type": "fetch",
+      "url": "https://evs.apex.everydollar.com/v1/projects/dvF4R8o7yZeSMmEIGCVczuM8zjh4OHZu/settings"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://www.everydollar.com/app/assets/ajs-destination-czxi0DNZ.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://www.everydollar.com/app/assets/is-plan-event-enabled-DC_xDK-v.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://www.everydollar.com/app/assets/schema-filter-BZfu4WA9.js"
+    },
+    {
+      "method": "POST",
+      "type": "fetch",
+      "url": "https://api.apex.everydollar.com/v1/p"
+    }
+  ]
+}

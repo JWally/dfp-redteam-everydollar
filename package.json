@@ -1,0 +1,9 @@
+{
+  "name": "dfp-redteam-everydollar",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "EveryDollar (Dave Ramsey) security stack: Auth0 Universal Login + reCAPTCHA v2 (sitekey captured), Datadog/Sentry monitoring, Segment/Mixpanel analytics + rrweb session replay; NO dedicated device-fingerprint vendor (authorized, public login flow, 2026-10-31)",
+  "scripts": { "probe": "node scripts/ed-probe.mjs", "app": "node scripts/ed-app.mjs" },
+  "dependencies": { "playwright": "^1" }
+}

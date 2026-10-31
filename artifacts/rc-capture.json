@@ -1,0 +1,21 @@
+{
+  "sk": {
+    "sitekeys": [],
+    "frames": []
+  },
+  "modal": [
+    {
+      "t": "Sign In",
+      "href": "https://www.everydollar.com/app/budget?ajs_aid=322d798c-ed3f-42f8-a066-611015cfb39b"
+    },
+    {
+      "t": "Sign In",
+      "href": "https://www.everydollar.com/app/budget?ajs_aid=322d798c-ed3f-42f8-a066-611015cfb39b"
+    },
+    {
+      "t": "Sign In",
+      "href": "https://www.everydollar.com/app/auth/login?ajs_aid=322d798c-ed3f-42f8-a066-611015cfb39b"
+    }
+  ],
+  "rc": []
+}

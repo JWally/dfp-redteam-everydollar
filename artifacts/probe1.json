@@ -1,0 +1,321 @@
+{
+  "state": {
+    "url": "https://id.ramseysolutions.com/u/login/identifier?state=hKFo2SByZm9nUmhNMXFkbUlYVzdONUdmTF",
+    "title": "Ramsey Account - Sign In",
+    "cookies": [
+      "optimizelySession",
+      "_pin_unauth",
+      "ndp_session_id"
+    ],
+    "fpGlobals": [
+      "_auth0Screen",
+      "___grecaptcha_cfg",
+      "grecaptcha",
+      "__recaptcha_api",
+      "__google_recaptcha_client",
+      "recaptcha"
+    ]
+  },
+  "requests": [
+    {
+      "method": "GET",
+      "type": "document",
+      "url": "https://www.ramseysolutions.com/money/everydollar"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "https://cdn.ramseysolutions.net/media/rscom/logos/flat-blue-50-ramsey-logo.svg"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://www.ramseysolutions.com/.resources/magnolia-ramseysolutions-toolkit/assets/dist/js/components/navSearch/navSearch.min~2026-10-22-19-16-05-000~cache.js"
+    },
+    {
+      "method": "GET",
+      "type": "stylesheet",
+      "url": "https://www.ramseysolutions.com/forms/martech/auth/masthead/dist/css/masthead.css"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://www.ramseysolutions.com/forms/martech/auth/masthead/dist/js/masthead.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://www.ramseysolutions.com/.resources/magnolia-template-ramseysolutions/assets/dist/js/mainNavigation.min~2026-10-22-15-51-30-000~cache.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://www.ramseysolutions.com/.resources/magnolia-template-ramseysolutions/assets/dist/js/masthead.min~2026-10-22-15-51-30-000~cache.js"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "https://cdn.ramseysolutions.net/daveramsey.com/media/everydollar/2022/microsite/logo.svg"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://www.ramseysolutions.com/.resources/magnolia-template-ramseysolutions/assets/dist/js/subnav.min~2026-10-22-15-51-31-000~cache.js"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "https://cdn.ramseysolutions.net/media/everydollar/2025/9560/colby.png"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "https://cdn.ramseysolutions.net/media/everydollar/2025/9560/couple.png"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "https://cdn.ramseysolutions.net/media/everydollar/2025/9560/woman.png"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://www.ramseysolutions.com/.resources/magnolia-template-ramseysolutions/assets/dist/js/testimonialCarousel.min~2026-10-22-15-51-31-000~cache.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://www.ramseysolutions.com/.resources/magnolia-template-ramseysolutions/assets/dist/js/faqList.min~2026-10-22-15-51-30-000~cache.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://www.ramseysolutions.com/.resources/magnolia-template-ramseysolutions/assets/dist/js/modal.min~2026-10-22-15-51-30-000~cache.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://www.ramseysolutions.com/.resources/magnolia-template-ramseysolutions/assets/dist/js/cookieBanner.min~2026-10-22-15-51-30-000~cache.js"
+    },
+    {
+      "method": "GET",
+      "type": "document",
+      "url": "https://www.ramseysolutions.com/money/everydollar/getfocused"
+    },
+    {
+      "method": "GET",
+      "type": "stylesheet",
+      "url": "https://cdn.ramseysolutions.net/npm/gazelle-design-system/1.16.1/gazelle-design-system.min.css"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "https://cdn.ramseysolutions.net/media/rscom/logos/flat-blue-50-ramsey-logo.svg"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://www.ramseysolutions.com/.resources/magnolia-ramseysolutions-toolkit/assets/dist/js/components/navSearch/navSearch.min~2026-10-22-19-16-05-000~cache.js"
+    },
+    {
+      "method": "GET",
+      "type": "stylesheet",
+      "url": "https://www.ramseysolutions.com/forms/martech/auth/masthead/dist/css/masthead.css"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://www.ramseysolutions.com/forms/martech/auth/masthead/dist/js/masthead.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://www.ramseysolutions.com/.resources/magnolia-template-ramseysolutions/assets/dist/js/mainNavigation.min~2026-10-22-15-51-30-000~cache.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://www.ramseysolutions.com/.resources/magnolia-template-ramseysolutions/assets/dist/js/masthead.min~2026-10-22-15-51-30-000~cache.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://www.ramseysolutions.com/.resources/magnolia-template-ramseysolutions/assets/dist/js/faqList.min~2026-10-22-15-51-30-000~cache.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://www.ramseysolutions.com/.resources/magnolia-template-ramseysolutions/assets/dist/js/cookieBanner.min~2026-10-22-15-51-30-000~cache.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://cdn.segment.com/analytics.js/v1/2RUWJRGaJMvfK1MxbhmCOt6ht3KOYNWb/analytics.min.js"
+    },
+    {
+      "method": "GET",
+      "type": "other",
+      "url": "https://www.ramseysolutions.com/.resources/magnolia-ramseysolutions-toolkit/assets/dist/img/icons/ramsey-icons.svg"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "https://cdn.ramseysolutions.net/media/everydollar/2026/microsite/primary/white-rounded-corner-tablet-mobile-1.svg"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "https://cdn.ramseysolutions.net/media/everydollar/2026/microsite/search/1/focus-everydollar-hero-desktop-1.png"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "https://cdn.ramseysolutions.net/media/everydollar/2026/microsite/primary/spray-paint-desktop-left-1.png"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "https://cdn.ramseysolutions.net/media/everydollar/2026/microsite/primary/spray-paint-desktop-right-1.png"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "https://cdn.ramseysolutions.net/media/everydollar/2026/microsite/focus/getfocused-desk.png"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "https://cdn.ramseysolutions.net/media/everydollar/2026/microsite/primary/gray-rounded-corner-tablet-mobile-1.svg"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "https://cdn.ramseysolutions.net/media/everydollar/2026/microsite/search/1/everydollar-a-job-desktop-1.png"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "https://cdn.ramseysolutions.net/media/everydollar/2026/microsite/search/1/spending-desktop-1.png"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "https://cdn.ramseysolutions.net/media/everydollar/2026/microsite/search/1/fast-progress-desktop-1.png"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "https://cdn.ramseysolutions.net/media/ramsey-plus/everydollar/marketing/2026/microsite/right-spots.png"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "https://cdn.ramseysolutions.net/media/ramsey-plus/everydollar/marketing/2026/microsite/left-spots.png"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "https://cdn.ramseysolutions.net/media/ramsey-plus/everydollar/marketing/2026/microsite/green-twis3.png"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "https://cdn.ramseysolutions.net/media/everydollar/2026/microsite/search/1/feel-stuck-everydollar.gif"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "https://cdn.ramseysolutions.net/media/everydollar/2026/microsite/search/1/everydollar-experience.png"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "https://cdn.ramseysolutions.net/media/everydollar/2026/microsite/search/1/cobly-mackenzie.png"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "https://cdn.ramseysolutions.net/media/everydollar/2026/microsite/focus/caleb.png"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "https://cdn.ramseysolutions.net/media/everydollar/2026/microsite/focus/fransisco-brishithe.png"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "https://cdn.ramseysolutions.net/media/everydollar/2026/microsite/budgeting/sun-bathing.svg"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "https://cdn.ramseysolutions.net/media/everydollar/2026/microsite/budgeting/finish-line.svg"
+    },
+    {
+      "method": "GET",
+      "type": "image",
+      "url": "https://cdn.ramseysolutions.net/media/everydollar/2026/microsite/budgeting/coffee.svg"
+    },
+    {
+      "method": "GET",
+      "type": "fetch",
+      "url": "https://www.ramseysolutions.com/forms/martech/auth/masthead/api/user"
+    },
+    {
+      "method": "GET",
+      "type": "fetch",
+      "url": "https://www.ramseysolutions.com/forms/martech/auth/masthead/api/environment-aware-urls"
+    },
+    {
+      "method": "GET",
+      "type": "fetch",
+      "url": "https://cdn.segment.com/v1/projects/2RUWJRGaJMvfK1MxbhmCOt6ht3KOYNWb/settings"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://cdn.segment.com/analytics-next/bundles/ajs-destination.bundle.40628baed746e9904edc.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://cdn.segment.com/analytics-next/bundles/schemaFilter.bundle.a6a77355d52c20e3a83d.js"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://cdn.segment.com/analytics-next/bundles/auto-track.bundle.f131ce01a05e3a33a8c1.js"
+    },
+    {
+      "method": "POST",
+      "type": "fetch",
+      "url": "https://api.segment.io/v1/p"
+    },
+    {
+      "method": "GET",
+      "type": "fetch",
+      "url": "https://gtm.ramseysolutions.com/g/collect?v=2&tid=G-02SXDH1H96&gtm=45je6as1h1v878108407z877022591za20gzb77022591zd77022591xf1&_p=1793469854383&gcd=13l3l3l3l1l1&npa=0&dma=0&ecid=181"
+    },
+    {
+      "method": "GET",
+      "type": "fetch",
+      "url": "https://gtm.ramseysolutions.com/g/collect?v=2&tid=G-02SXDH1H96&gtm=45je6as1h1v878108407z877022591za20gzb77022591zd77022591xf1&_p=1793469854383&gcd=13l3l3l3l1l1&npa=0&dma=0&ecid=181"
+    },
+    {
+      "method": "GET",
+      "type": "fetch",
+      "url": "https://gtm.ramseysolutions.com/g/collect?v=2&tid=G-02SXDH1H96&gtm=45je6as1h1v878108407z877022591za20gzb77022591zd77022591xf1&_p=1793469854383&gcd=13l3l3l3l1l1&npa=0&dma=0&ecid=181"
+    },
+    {
+      "method": "GET",
+      "type": "document",
+      "url": "https://gtm.ramseysolutions.com/_/service_worker/6al0/sw_iframe.html?origin=https%3A%2F%2Fwww.ramseysolutions.com&1p=1"
+    },
+    {
+      "method": "GET",
+      "type": "script",
+      "url": "https://connect.facebook.net/signals/config/1495765904005701?v=2.9.433&r=stable&domain=www.ramseysolutions.com&optin_meta_enabled_capi=true&hme=4453c87d489b6902031c012cadd2731893cd"
+    }
+  ]
+}
